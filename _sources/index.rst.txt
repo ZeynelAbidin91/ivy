@@ -344,13 +344,6 @@ Documentation Tree
 
 .. toctree::
    :maxdepth: -1
-   :caption: .idea
-
-   .idea/inspectionProfiles.rst
-
-
-.. toctree::
-   :maxdepth: -1
    :caption: Array
 
    array/array_api.rst
